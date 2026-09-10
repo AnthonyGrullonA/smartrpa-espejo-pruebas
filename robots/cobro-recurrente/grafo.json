@@ -1,0 +1,9 @@
+{
+  "nodos": [
+    {
+      "id": "n1",
+      "tipo": "inicio"
+    }
+  ],
+  "aristas": []
+}
